@@ -1,0 +1,12 @@
+.section4{
+    transition: all 1s ;
+
+}
+.btns button {
+   background-color:  #FFEBD8 ;
+   margin: 0 5px;
+}
+.btns button:hover{
+    background-color: #FFC5C5 ;
+    color: #FFEBD8;
+}
