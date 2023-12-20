@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bikin-project/static/css/main.ab161e04.css",
+    "main.js": "/bikin-project/static/js/main.c61c5478.js",
+    "static/media/hero-img.png": "/bikin-project/static/media/hero-img.2a97c270c457d64e4db9.png",
+    "index.html": "/bikin-project/index.html",
+    "main.ab161e04.css.map": "/bikin-project/static/css/main.ab161e04.css.map",
+    "main.c61c5478.js.map": "/bikin-project/static/js/main.c61c5478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab161e04.css",
+    "static/js/main.c61c5478.js"
+  ]
+}
